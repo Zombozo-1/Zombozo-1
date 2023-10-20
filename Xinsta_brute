@@ -1,0 +1,26 @@
+aracı terminalinizde çalıştırma komutları
+pkg update && pkg upgrade -y
+pkg install git -y
+git clone https://github.com/hackerxphantom/xinsta_brute
+cd xinsta_brute
+bash setup
+komutun üstüne yazın bash kurulumu bir dakika bekleyin.
+uyar:-eski terminalden/oturumdan çıkmayın
+şimdi yeni terminali/oturumu açın ve aşağdaki komutu yazın:-
+bash xinsta_brute.sh
+aracı kali linux'ta çalıştırma komutları
+sudo apt-get update && pkg upgrade -y
+sudo apt-get install git -y
+git clone https://github.com/hackerxphantom/xinsta_brute
+cd xinsta_brute
+bash setup
+komutun üstüne yazın bash kurulumu bir dakika bekleyin.
+uyar:-eski terminalden/oturumdan çıkmayın
+şimdi yeni terminali/oturumu açın ve aşağdaki 
+bash xinsta_brute.sh
+özelikler 
+°Otomatik Saldırı 
+°Manuel Saldırı
+°Süper Hızlı Saldırı
+°10M Şifre 
+araç şunun içindir/Termux/Kali Linux
